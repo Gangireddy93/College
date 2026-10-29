@@ -1,0 +1,20 @@
+{
+  "name": "college-hall-ticket-exam-system",
+  "version": "1.0.0",
+  "description": "College Hall Ticket & Anti-Cheat Exam Seating Allocation Portal",
+  "scripts": {
+    "start": "cd backend && npm start",
+    "backend": "cd backend && npm start",
+    "backend:dev": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "hall-ticket",
+    "exam-seating",
+    "anti-cheating",
+    "allocation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
